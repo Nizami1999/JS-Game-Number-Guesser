@@ -5,7 +5,7 @@
 - Notify player of guesses remaining<br>
 - Notify the player of the correct answer if loose<br>
 - Let player choose to play again<br>
-- Winning number is changed at every reloading of page<br>
+- Winning number is changed at every reloading of page<br><br><br>
  
  ~ P.S. You can see correct number in 'Console', if you want to test.
 </h4><br>
