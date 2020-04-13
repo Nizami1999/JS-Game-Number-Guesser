@@ -1,4 +1,4 @@
-# JS-Game
+# JS-Game-Number-Guesser
 <h4>GAME FUNCTION:<br><br>
 - Player must guess a number between a min and max<br>
 - Player gets a certain amount of guesses<br>
