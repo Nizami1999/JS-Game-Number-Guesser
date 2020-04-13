@@ -7,8 +7,8 @@
 - Let player choose to play again<br>
 - Winning number is changed at every reloading of page<br><br><br>
  
- ~ P.S. You can see correct number in 'Console', if you want to test.
-</h4><br>
+ P.S. You can see correct number in 'Console', if you want to test.
+</h4>
 <h3>I have created a game written in full Vanilla JS, where you have to choose a number betweet 1-10. You have 3 chances to try again, and only one number is correct. <br>
 
 
