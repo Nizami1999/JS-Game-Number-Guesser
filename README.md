@@ -7,7 +7,7 @@
 - Let player choose to play again<br>
 - Winning number is changed at every reloading of page<br>
 </h4><br>
-<h2>I have created a game written in full Vanilla JS, where you have to choose a number betweet 1-10. You have 3 chances to try again, and only one number is correct. ~ P.S. You can see correct number in 'Console', if you want to test.<br>
+<h3>I have created a game written in full Vanilla JS, where you have to choose a number betweet 1-10. You have 3 chances to try again, and only one number is correct. <br>
 
 
  
@@ -17,11 +17,11 @@
 ![Screenshot_3](https://user-images.githubusercontent.com/61557989/79166256-ce4f8980-7df5-11ea-879c-e6947264afc0.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/61557989/79166259-cf80b680-7df5-11ea-86be-2cd9337abc8f.png)
  
-</h2>
+</h3>
 
 
 
 
-<h2>Download all these files and enjoy :D</h2>
+<h4>Download all these files and enjoy :D</h4>
 <br>
 <p>P.S. It's created just for testing and improving skills!<p>
