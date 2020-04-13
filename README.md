@@ -1,12 +1,12 @@
 # JS-Game
-<h4>GAME FUNCTION:
-- Player must guess a number between a min and max
-- Player gets a certain amount of guesses
-- Notify player of guesses remaining
-- Notify the player of the correct answer if loose
-- Let player choose to play again
-- Winning number is changed at every reloading of page
-</h4>
+<h4>GAME FUNCTION:<br><br>
+- Player must guess a number between a min and max<br>
+- Player gets a certain amount of guesses<br>
+- Notify player of guesses remaining<br>
+- Notify the player of the correct answer if loose<br>
+- Let player choose to play again<br>
+- Winning number is changed at every reloading of page<br>
+</h4><br>
 <h2>I have created a game written in full Vanilla JS, where you have to choose a number betweet 1-10. You have 3 chances to try again, and only one number is correct. ~ P.S. You can see correct number in 'Console', if you want to test.<br>
 
 
